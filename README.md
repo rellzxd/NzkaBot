@@ -1,2 +1,2 @@
 # NOTE :
-Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu Brother!!
+Script ini gratis untuk semua orang, bukan untuk dijual! Jika dijual, neraka menunggumu Brother.
