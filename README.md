@@ -22,7 +22,7 @@
 > ᴀɴᴅ, Sᴜʙꜱᴄʀɪʙᴇ [ here 🔥 ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
 
 ---------  
-## 💌 Cᴏɴᴛᴀᴄᴛ Oᴡɴᴇʀ Fᴠɴᴋʏʏ <img>
+## 🌸 Cᴏɴᴛᴀᴄᴛ Oᴡɴᴇʀ Fᴠɴᴋʏʏ ⚡
 ---------
 
 ## ```WHATSAPP``` <a href="https://wa.me/84352438984"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
