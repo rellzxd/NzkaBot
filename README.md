@@ -19,7 +19,7 @@
 # 𝐒𝐄𝐒𝐒𝐈𝐎𝐍𝐒? 𝐒𝐂𝐀𝐍 𝐃𝐈𝐒𝐈𝐍𝐈☕
 
 > ▷ Cʟɪᴄᴋ [ session disini ](https://replit.com/@zeeoneofc/Session-Md?lite=1&outputonly=1#.replit) 
-> ᴀɴᴅ, Sᴜʙꜱᴄʀɪʙᴇ [ here 🔥 ◁ ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
+> ᴀɴᴅ, Sᴜʙꜱᴄʀɪʙᴇ [ here 🔥 ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
