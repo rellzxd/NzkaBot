@@ -22,19 +22,10 @@
 > ᴀɴᴅ, Sᴜʙꜱᴄʀɪʙᴇ [ here 🔥 ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
 
 ---------  
-## 💌 Cᴏɴᴛᴀᴄᴛ Oᴡɴᴇʀ Fᴠɴᴋʏʏ<img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/84352438984">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/l4c1f2r">
-    <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0C">
-    <img align="left" alt="SIEGRIN | YouTube" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Youtube.svg" />
-  </a> &nbsp;&nbsp;
+## 💌 Cᴏɴᴛᴀᴄᴛ Oᴡɴᴇʀ Fᴠɴᴋʏʏ<img src=
 ---------
 
-## ```WHATSAPP``` <a href="https://wa.me/6282214729677"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+## ```WHATSAPP``` <a href="https://wa.me/84352438984"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![BOT WHATSAPP](https://img.shields.io/badge/Group%20All%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff) 
 ---------
 
