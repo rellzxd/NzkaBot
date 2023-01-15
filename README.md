@@ -22,24 +22,24 @@
 > ᴀɴᴅ, Sᴜʙꜱᴄʀɪʙᴇ [ here 🔥 ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
 
 ---------  
-## 【☘️】Sᴏꜱᴍᴇᴅ Aᴜᴛʜᴏʀ Fᴠɴᴋʏʏ Bᴏᴛ【☘️】
+## ☘️ Sᴏꜱᴍᴇᴅ Aᴜᴛʜᴏʀ Fᴠɴᴋʏʏ Bᴏᴛ 🤖
 ---------
 ## ```YouTube``` <a href="https://youtube.com/@FvnkyyBotz"><img align="left" alt="SIEGRIN | YouTube" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Youtube.svg">
 ## ```WhatsApp``` <a href="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px"><a href="https://wa.me/84352438984"><img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg">
 ## ```Instagram``` <a href="https://www.instagram.com/rellz.fvnkyy"><img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg">
 ---------
 
-#### Featured this bot:
+#### 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐓𝐡𝐢𝐬 𝐁𝐨𝐭 :
 - [x] **Fast Respon** 
 - [x] **Simple** 
 - [x] **Button Template** 
 - [x] **Multi Device** 
 - [x] **Button Document (Experiment)** 
 ---------
-#### Some of the features include
+#### 𝐒𝐨𝐦𝐞 𝐎𝐟 𝐓𝐡𝐞 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐈𝐧𝐜𝐥𝐮𝐝𝐞 :
 - [x] Downloader 
 - [x] Internet 
-- [x] Game Rpg 
+- [x] Rpg Game
 - [x] Nsfw 
 - [x] Sticker 
 - [x] Game 
@@ -52,22 +52,22 @@
 - [x] React 
 ---------
 
-## `SETTING`
+## `〽️SETTING :`
 
-- Owner Number [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
-- Owner Name [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
-- Bot Name [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
+- Number Owner [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
+- Name Owner : [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
+- Name Bot [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
 ---------
 
-## ```Heroku Buildpack```
+## ```HEROKU BUILDPACK```
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/)
 
-| BuildPack | LINK |
+| BUILDPACK | LINK |
 |--------|--------|
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git) |
 | **IMAGEMAGICK** | [here](https://github.com/mcollina/heroku-buildpack-imagemagick.git) |
 
-## TERMUX USER
+## CMD USER TERMUX :
 ```bash
 $ pkg upgrade && pkg update
 $ pkg install git -y
