@@ -110,7 +110,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & WH-MODS-BOT-MD]
+[ INSTALLING NODEJS & WH-MODS-BOT-MD ]
 
 ```bash
 ubuntu
