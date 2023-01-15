@@ -22,7 +22,7 @@
 > ᴀɴᴅ, Sᴜʙꜱᴄʀɪʙᴇ [ here 🔥 ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
 
 ---------
-## 💌𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐀𝐔𝐓𝐇𝐎𝐑 𝐅𝐕𝐍𝐊𝐘𝐘🤝 <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
+## 💌𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐀𝐔𝐓𝐇𝐎𝐑 𝐅𝐕𝐍𝐊𝐘𝐘<img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
   <a href="https://wa.me/6282214729677">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
