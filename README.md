@@ -1,6 +1,6 @@
 
 ## ☣️ 𝗕 𝗔 𝗖 𝗔 𝗗 𝗨 𝗟 𝗨 𝗞 𝗔 𝗪 𝗔 𝗡 𝗗🗿👊
-Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu kakak !
+𝚂𝚌𝚛𝚒𝚙𝚝 𝚒𝚗𝚒 𝙵𝚛𝚎𝚎 𝚞𝚗𝚝𝚞𝚔 𝚜𝚎𝚖𝚞𝚊 𝚘𝚛𝚊𝚗𝚐, 𝚋𝚞𝚔𝚊𝚗 𝚞𝚗𝚝𝚞𝚔 𝙳𝚒𝚓𝚞𝚊𝚕. 𝙹𝚒𝚔𝚊 𝚍𝚒𝚓𝚞𝚊𝚕 𝚗𝚎𝚛𝚊𝚔𝚊 𝚖𝚎𝚗𝚞𝚗𝚐𝚐𝚞𝚖𝚞 𝙱𝚛𝚘𝚝𝚑𝚎𝚛!!
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
     <img src="https://telegra.ph/file/24f91cc412e160da0adbe.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
