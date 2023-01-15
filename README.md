@@ -26,7 +26,8 @@
 ---------
 
 ## ```WhatsApp``` <a href="https://wa.me/84352438984">
-## ```Instagram``` <a href="https://www.instagram.com/rellz.fvnkyy"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+## ```Instagram``` <a href="https://www.instagram.com/l4c1f2r">
+    <img align="left" alt="SIEGRIN | Instagram" width="24px" <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![BOT WHATSAPP](https://img.shields.io/badge/Group%20All%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff) 
 ---------
 
