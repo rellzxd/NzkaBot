@@ -7,7 +7,7 @@
 </p>
 <h1 align="center">「 Fᴠɴᴋʏʏ Bᴏᴛあ 」</h1>
 <p align="center">
-  <a href="https://github.com/l4c1f2r"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=FVNKYY+BOT+Multi+Device;Base+ori+by;BochilGaming+And+KANNACHAN;Recode+By+PUTRA+MODS;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/rellzxd"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=FVNKYY+BOT+Multi+Device;Base+Ori+By;BochilGaming+and,+KannaChan;Recode+By+Fvnkyy+Botz;Give+Star+and,+Forks+This+Repo+:D;Follow+My+Github💙" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
