@@ -7,7 +7,7 @@
 </p>
 <h1 align="center">「 Fᴠɴᴋʏʏ Bᴏᴛあ 」</h1>
 <p align="center">
-  <a href="https://github.com/rellzxd"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Fvnkyy+Bot+ＭＵＬＴＩ+ＤＥＶＩＣＥ;🄱🄰🅂🄴+🄾🅁🄸+🄱🅈;𝗕𝗼𝗰𝗵𝗶𝗹𝗚𝗮𝗺𝗶𝗻𝗴+and+𝗞𝗮𝗻𝗻𝗮𝗖𝗵𝗮𝗻;Recode+By+Fvnkyy+Botz;Give+Star+𝚊𝚗𝚍,+Forks+This+Repo+:D;Follow+My+Github💙" alt="ʘᴗʘ">
+  <a href="https://github.com/rellzxd"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Fvnkyy+Bot+ＭＵＬＴＩ+ＤＥＶＩＣＥ;🄱🄰🅂🄴+🄾🅁🄸+🄱🅈;𝗕𝗼𝗰𝗵𝗶𝗹𝗚𝗮𝗺𝗶𝗻𝗴+and+𝗞𝗮𝗻𝗻𝗮𝗖𝗵𝗮𝗻;Recode+by+Fvnkyy+Botz;Give+star+and+Forks+this+repo+:D;Follow+my+Github💙" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 > ᴀɴᴅ, Sᴜʙꜱᴄʀɪʙᴇ [ here 🔥 ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
 
 ---------  
-## ☘️Sᴏꜱᴍᴇᴅ Aᴜᴛʜᴏʀ Fᴠɴᴋʏʏ Bᴏᴛ🤖 
+## 【☘️】Sᴏꜱᴍᴇᴅ Aᴜᴛʜᴏʀ Fᴠɴᴋʏʏ Bᴏᴛ【☘️】
 ---------
 ## ```YouTube``` <a href="https://youtube.com/@FvnkyyBotz"><img align="left" alt="SIEGRIN | YouTube" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Youtube.svg">
 ## ```WhatsApp``` <a href="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px"><a href="https://wa.me/84352438984"><img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg">
