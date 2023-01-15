@@ -22,11 +22,11 @@
 > ᴀɴᴅ, Sᴜʙꜱᴄʀɪʙᴇ [ here 🔥 ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
 
 ---------  
-## 🌸 Cᴏɴᴛᴀᴄᴛ Oᴡɴᴇʀ Fᴠɴᴋʏʏ ⚡
+## 【☘️】 Cᴏɴᴛᴀᴄᴛ Oᴡɴᴇʀ Fᴠɴᴋʏʏ 🤖 
 ---------
-
+## ```YouTube``` <a href="https://youtube.com/@FvnkyyBotz"><img align="left" alt="SIEGRIN | YouTube" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Youtube.svg">
 ## ```WhatsApp``` <a href="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px"><a href="https://wa.me/84352438984"><img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg">
-## ```Instagram``` <a href="https://www.instagram.com/l4c1f2r"><img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg">
+## ```Instagram``` <a href="https://www.instagram.com/rellz.fvnkyy"><img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg">
 ---------
 
 #### a little about this bot
