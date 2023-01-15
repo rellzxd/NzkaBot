@@ -21,10 +21,9 @@
 > ▷ Cʟɪᴄᴋ [ session disini ](https://replit.com/@zeeoneofc/Session-Md?lite=1&outputonly=1#.replit) 
 > ᴀɴᴅ, Sᴜʙꜱᴄʀɪʙᴇ [ here 🔥 ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
 
----------
-▢━━━━━━━━▢  
-## 💌Cᴏɴᴛᴀᴄᴛ Oᴡɴᴇʀ Fᴠɴᴋʏʏ<img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6282214729677">
+---------  
+## 💌 Cᴏɴᴛᴀᴄᴛ Oᴡɴᴇʀ Fᴠɴᴋʏʏ<img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
+  <a href="https://wa.me/62822">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/l4c1f2r">
