@@ -1,4 +1,4 @@
-
+## ⚠️P E N T I N G❗
 ## ☣️ 𝗕 𝗔 𝗖 𝗔 𝗗 𝗨 𝗟 𝗨 𝗞 𝗔 𝗪 𝗔 𝗡 𝗗 🗿👊
 𝚂𝚌𝚛𝚒𝚙𝚝 𝚒𝚗𝚒 𝙵𝚛𝚎𝚎 𝚞𝚗𝚝𝚞𝚔 𝚂𝚎𝚖𝚞𝚊 𝙾𝚛𝚊𝚗𝚐, 𝚋𝚞𝚔𝚊𝚗 𝚞𝚗𝚝𝚞𝚔 𝙳𝚒𝚓𝚞𝚊𝚕. 𝙹𝚒𝚔𝚊 𝚍𝚒𝚓𝚞𝚊𝚕 𝚗𝚎𝚛𝚊𝚔𝚊 𝚖𝚎𝚗𝚞𝚗𝚐𝚐𝚞𝚖𝚞 𝙱𝚛𝚘𝚝𝚑𝚎𝚛 !!!
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
@@ -22,7 +22,7 @@
 > ᴀɴᴅ, Sᴜʙꜱᴄʀɪʙᴇ [ here 🔥 ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
 
 ---------  
-## 【☘️】 Cᴏɴᴛᴀᴄᴛ Oᴡɴᴇʀ Fᴠɴᴋʏʏ 🤖 
+## 【☘️】 Cᴏɴᴛᴀᴄᴛ Aᴜᴛʜᴏʀ Fᴠɴᴋʏʏ Bᴏᴛ🤖 
 ---------
 ## ```YouTube``` <a href="https://youtube.com/@FvnkyyBotz"><img align="left" alt="SIEGRIN | YouTube" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Youtube.svg">
 ## ```WhatsApp``` <a href="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px"><a href="https://wa.me/84352438984"><img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg">
