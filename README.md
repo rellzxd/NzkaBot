@@ -140,7 +140,7 @@ npm update
 
 ---------
 
-## Run 🏃
+## RUN 🏃
 
 ```bash
 node .
