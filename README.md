@@ -1,5 +1,5 @@
 
-## 【⚠️】B A C A D U L U B A N G🗿🤙
+## ⚠️ B A C A D U L U K A W A N D🗿🤙
 Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu kakak !
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
