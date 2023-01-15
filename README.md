@@ -5,13 +5,13 @@
 <p align="center">
     <img src="https://telegra.ph/file/24f91cc412e160da0adbe.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">「 Fᴠɴᴋʏʏ Bᴏᴛあ 」</h1>
+<h1 align="center">「 Fᴠɴᴋʏʏ Bᴏᴛᴢあ 」</h1>
 <p align="center">
   <a href="https://github.com/l4c1f2r"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=PUTRA+MODS+BOT+Multi+Device;Base+ori+by;BochilGaming+And+KANNACHAN;Recode+By+PUTRA+MODS;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="PUTRA MODZ" src="https://img.shields.io/badge/-FVNKYY--BOT--MD🧐-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="FVNKYY BOT" src="https://img.shields.io/badge/-FVNKYY--BOT--MD🧐-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/rellzxd"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RELLZXD--JAWAA-green?style=for-the-badge&logo=github"></a>
