@@ -232,7 +232,6 @@ Apikeynya Beli Sendiri Ygy🗿👍
 * [`All Friends`](https://github.com/WH-MODS-BOT)
 * [`All Contributors`](https://github.com/WH-MODS-BOT)
 * [`All Creator Bot`](https://github.com/WH-MODS-BOT)
-* [`All Offc`]
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
@@ -240,7 +239,6 @@ Apikeynya Beli Sendiri Ygy🗿👍
 * [`KannaChann`](https://github.com/kannachann) 
 * [`The.Sad.Boy01`](https://github.com/Kangsad01) 
 * [`Papah-Chan`](https://github.com/FahriAdison) 
-* [`Penyedia Layanan Apikey`]
 
 ## ```⚠️ RECODE BY :```
-[![FVNKYY-BOTZ](https://github.com/l4c1f2r.png?size=70)](https://github.com/rellzxd)
+[![ FVNKYY-BOTZv ](https://github.com/l4c1f2r.png?size=70)](https://github.com/rellzxd)
