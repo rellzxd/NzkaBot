@@ -22,7 +22,7 @@
 > ᴀɴᴅ, Sᴜʙꜱᴄʀɪʙᴇ [ here 🔥 ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
 
 ---------  
-## ☘️ Sᴏꜱᴍᴇᴅ Aᴜᴛʜᴏʀ Fᴠɴᴋʏʏ Bᴏᴛ 🤖
+## Sᴏꜱᴍᴇᴅ Aᴜᴛʜᴏʀ Fᴠɴᴋʏʏ Bᴏᴛ 🤖
 ---------
 ## ```YouTube``` <a href="https://youtube.com/@FvnkyyBotz"><img align="left" alt="SIEGRIN | YouTube" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Youtube.svg">
 ## ```WhatsApp``` <a href="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px"><a href="https://wa.me/84352438984"><img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg">
@@ -52,7 +52,7 @@
 - [x] React 
 ---------
 
-## `〽️SETTING :`
+## `SETTING :`
 
 - Number Owner [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
 - Name Owner : [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
@@ -90,7 +90,7 @@ $ yarn install
 ```
 ---------
 
-## TERMUX WITH UBUNTU
+## TERMUX WITH UBUNTU :
 
 ```bash
 apt update && apt full-upgrade
@@ -125,11 +125,11 @@ npm update
 
 ---------
 
-## FOR WINDOWS/VPS/RDP USER 💻
+## 💻 FOR USER WINDOWS/VPS/RDP :
 
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads)
 * Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
-* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
+* Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
@@ -213,25 +213,27 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ```
 ---------
 
-### 📮 S&K
+### 🎭 S&K :
 1. Don't For Sale
-2. Don't forget give star this repo
-3. Follow Github
-4. Don't use this repository wrong!
-5. If you have problem chat me in owner number
+2. Don't Forget Give Star This Repo
+3. Follow my Github
+4. Don't Use This Repository Wrong!
+5. If You Have Problem Chat Me In Owner Number
 
 ---------
 
-### ❗ Note : Apikeynya Beli Sendiri Ya Guys😁
+### ❗ N O T E :
+Apikeynya Beli Sendiri Ygy🗿👍
 
 ---------
 
-## ```Thanks to ✨```
+## ```BIG THANKS TO ✨```
 * [`Allah SWT`](https://github.com/WH-MODS-BOT)
-* [`My parents`](https://github.com/WH-MODS-BOT)
+* [`My Parents`](https://github.com/WH-MODS-BOT)
 * [`All Friends`](https://github.com/WH-MODS-BOT)
 * [`All Contributors`](https://github.com/WH-MODS-BOT)
 * [`All Creator Bot`](https://github.com/WH-MODS-BOT)
+* [`All Offc`]
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
@@ -239,6 +241,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`KannaChann`](https://github.com/kannachann) 
 * [`The.Sad.Boy01`](https://github.com/Kangsad01) 
 * [`Papah-Chan`](https://github.com/FahriAdison) 
+* [`Penyedia Layanan Apikey`]
 
-## ```Recode By ✏️```
-[![PUTRA-MODS-BOT](https://github.com/l4c1f2r.png?size=70)](https://github.com/l4c1f2r)
+## ```⚠️ RECODE BY :```
+[![FVNKYY-BOTZ](https://github.com/l4c1f2r.png?size=70)](https://github.com/rellzxd)
