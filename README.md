@@ -29,12 +29,12 @@
 ## ```Instagram``` <a href="https://www.instagram.com/rellz.fvnkyy"><img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg">
 ---------
 
-#### a little about this bot
+#### Featured this bot:
 - [x] **Fast Respon** 
 - [x] **Simple** 
 - [x] **Button Template** 
 - [x] **Multi Device** 
-- [x] **Button Document(Experiment)** 
+- [x] **Button Document (Experiment)** 
 ---------
 #### Some of the features include
 - [x] Downloader 
