@@ -1,5 +1,5 @@
 
-## 🥀 𝗕𝗔𝗖𝗔 𝗗𝗨𝗟𝗨 𝗞𝗔𝗪𝗔𝗡𝗗🗿👊
+## ☣️ 𝗕 𝗔 𝗖 𝗔 𝗗 𝗨 𝗟 𝗨 𝗞 𝗔 𝗪 𝗔 𝗡 𝗗🗿👊
 Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu kakak !
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
