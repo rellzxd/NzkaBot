@@ -3,7 +3,7 @@
 Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu kakak !
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-    <img src="24f91cc412e160da0adbe.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/24f91cc412e160da0adbe.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">PutraModz - MD</h1>
 <p align="center">
