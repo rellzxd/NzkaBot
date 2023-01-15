@@ -5,7 +5,7 @@
 <p align="center">
     <img src="https://telegra.ph/file/24f91cc412e160da0adbe.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">▣► Fᴠɴᴋʏʏ Bᴏᴛᴢ</h1>
+<h1 align="center">「 Fᴠɴᴋʏʏ Bᴏᴛᴢ 」</h1>
 <p align="center">
   <a href="https://github.com/l4c1f2r"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=PUTRA+MODS+BOT+Multi+Device;Base+ori+by;BochilGaming+And+KANNACHAN;Recode+By+PUTRA+MODS;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
