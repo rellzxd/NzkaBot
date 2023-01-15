@@ -7,14 +7,14 @@
 </p>
 <h1 align="center">「 Fᴠɴᴋʏʏ Bᴏᴛあ 」</h1>
 <p align="center">
-  <a href="https://github.com/rellzxd"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=FVNKYY+BOT+Multi+Device;Base+Ori+By;BochilGaming+and,+KannaChan;Recode+By+Fvnkyy+Botz;Give+Star+and,+Forks+This+Repo+:D;Follow+My+Github💙" alt="ʘᴗʘ">
+  <a href="https://github.com/rellzxd"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ｆｖｎｋｙｙ+Ｂｏｔ+ＭＵＬＴＩ-+ＤＥＶＩＣＥ🇲🇨;🄱🄰🅂🄴+🄾🅁🄸+🄱🅈;BᴏᴄʜɪʟGᴀᴍɪɴɢ+&+KᴀɴɴᴀCʜᴀɴ🥳;Ｒᴇᴄᴏᴅᴇ+Ｂʏ+Fᴠɳƙყყ+ᏰᎧᏖ🤖;Gινє+Sтαʀ+𝚊𝚗𝚍,+𝙵𝚘𝚛𝚔𝚜+𝚃𝚑𝚒𝚜+𝚁𝚎𝚙𝚘+:D;Follow+My+Github💙" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
  <a href="#"><img title="FVNKYY BOT" src="https://img.shields.io/badge/-FVNKYY--BOT--MD🧐-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/rellzxd"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RELLZXD--JAWAA-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/rellzxd"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RELLZ--FAMOUS-green?style=for-the-badge&logo=github"></a>
     
 # 𝐒𝐄𝐒𝐒𝐈𝐎𝐍𝐒? 𝐒𝐂𝐀𝐍 𝐃𝐈𝐒𝐈𝐍𝐈☕
 
