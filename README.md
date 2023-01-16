@@ -33,7 +33,7 @@
 ---------
 
 ---------
-#### 𝐌𝐄𝐍𝐔 𝐓𝐇𝐈𝐒 𝐁𝐎𝐓
+#### INFORMATION THIS BOT
 | Kᴇʟᴇʙɪʜᴀɴ | Cʜᴇᴄᴋ |
 |--------|--------|
 | **Fast Respon** |[✅](https://github.com/rellzxd) |
@@ -43,12 +43,12 @@
 | **Button Document (Experiment)** |[✅](https://github.com/rellzxd) |
 ---------
 
-#### 𝐅𝐄𝐀𝐓𝐔𝐑𝐄 𝐓𝐇𝐈𝐒 𝐁𝐎𝐓
+#### FEATURE THIS BOT
 | Fɪᴛᴜʀ | Cʜᴇᴄᴋ |
 |--------|--------|
 | **Downloader** |[✅](https://github.com/rellzxd) |
 | **Internet** |[✅](https://github.com/rellzxd) |
-| **Game Rpg** |[✅](https://github.com/rellzxd) |
+| **Rpg Games** |[✅](https://github.com/rellzxd) |
 | **Nsfw** |[✅](https://github.com/rellzxd) |
 | **Sticker** |[✅](https://github.com/rellzxd) |
 | **Kerang Ajaib** |[✅](https://github.com/rellzxd) |
@@ -62,9 +62,9 @@
 
 ## SETTING
 
-- Number Owner [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
-- Name Owner : [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
-- Name Bot [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
+* Owner Number [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
+* Name Owner Name : [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
+* Bot Name [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
 ---------
 
 ## ```HEROKU BUILDPACK```
