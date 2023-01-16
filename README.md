@@ -82,7 +82,7 @@ If error try using yarn instead of npm, see [here](https://github.com/BochilGami
 $ node .
 ```
 
-#### `For Android 10 and Above Don't Use NPM, Use Yarn Install`
+#### For Android 10 and Above Don't Use NPM, Use Yarn Install
 ```bash
 $ pkg install yarn -y
 $ yarn install
@@ -140,15 +140,13 @@ npm update
 
 ---------
 
-## RUN 🏃
+## `RUN 🏃`
 
 ```bash
 node .
 ```
 
 ---------
-
-## ```ARGUMENT NODE . [--options] [<session name>]```
 
 ## `SELF`
 * Activate self mode (Ignores other)
@@ -183,11 +181,11 @@ Set prefix
 * No bot, just print received messages and add users to database
 
 ## `TEST`
-* **DEVELOPMENT** TESTING MODE
+* Development Testing Mode
 
 ---------
 
-## ```To Customise Message Display```
+## ```TO CUSTOMISE MESSAGE DISPLAY```
 ```js
 // Syntax
 conn.sendButton(
@@ -226,7 +224,7 @@ Apikeynya Beli Sendiri Ygy🗿👍
 
 ---------
 
-## ```「BIG THANKS TO🔥」```
+## ```【 BIG THANKS TO🔥 】```
 * [`Allah SWT`](https://github.com/WH-MODS-BOT)
 * [`My Parents`](https://github.com/WH-MODS-BOT)
 * [`All Friends`](https://github.com/WH-MODS-BOT)
