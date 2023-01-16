@@ -22,8 +22,8 @@
 
 ---------  
 
-## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
+## DONATE☘️
+* [Saweria](https://saweria.co/FvnkyyBotz)
 ---------
 ## Sᴏꜱᴍᴇᴅ Aᴜᴛʜᴏʀ Fᴠɴᴋʏʏ Bᴏᴛ 🤖
 ---------
@@ -62,9 +62,9 @@
 
 ## SETTING
 
-* Owner Number [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
-* Name Owner Name : [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
-* Bot Name [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
+* Owner Number : [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
+* Name Owner : [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
+* Name Bot : [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
 ---------
 
 ## ```HEROKU BUILDPACK```
