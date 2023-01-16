@@ -241,4 +241,4 @@ Apikeynya Beli Sendiri Ygy🗿👍
 * [`Papah-Chan`](https://github.com/FahriAdison) 
 
 ## ```⚠️ RECODE BY :```
-[![ FVNKYY-BOTZv ](https://github.com/l4c1f2r.png?size=70)](https://github.com/rellzxd)
+[![ FVNKYY-BOTZ ](https://github.com/rellzxd.png?size=70)](https://github.com/rellzxd)
