@@ -66,7 +66,7 @@
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git) |
 | **IMAGEMAGICK** | [here](https://github.com/mcollina/heroku-buildpack-imagemagick.git) |
 
-## `COMMAND USER TERMUX :`
+## `COMMAND USER TERMUX`
 ```bash
 $ pkg upgrade && pkg update
 $ pkg install git -y
@@ -82,14 +82,14 @@ If error try using yarn instead of npm, see [here](https://github.com/BochilGami
 $ node .
 ```
 
-#### For android 10 and above don't use npm, use yarn install
+#### `For Android 10 and Above Don't Use NPM, Use Yarn Install`
 ```bash
 $ pkg install yarn -y
 $ yarn install
 ```
 ---------
 
-## TERMUX WITH UBUNTU :
+## `TERMUX WITH UBUNTU`
 
 ```bash
 apt update && apt full-upgrade
@@ -124,7 +124,7 @@ npm update
 
 ---------
 
-## 💻 FOR USER WINDOWS/VPS/RDP :
+## `💻 FOR USER WINDOWS/VPS/RDP`
 
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads)
 * Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
@@ -148,10 +148,10 @@ node .
 
 ---------
 
-## ```Arguments node . [--options] [<session name>]```
+## ```ARGUMENT NODE . [--options] [<session name>]```
 
 ## `SELF`
-*: Activate self mode (Ignores other)
+* Activate self mode (Ignores other)
 
 ## `PC ONLY`
 * If that chat not from private bot, bot will ignore
@@ -187,7 +187,7 @@ Set prefix
 
 ---------
 
-## ```To Customise Message Display :```
+## ```To Customise Message Display```
 ```js
 // Syntax
 conn.sendButton(
@@ -212,7 +212,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ```
 ---------
 
-### 📮 S&K :
+### `📮 S&K :`
 1. Don't For Sale
 2. Don't Forget Give Star This Repo
 3. Follow my Github
@@ -221,7 +221,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 ---------
 
-### 📍 N O T E :
+### `📍 N O T E :`
 Apikeynya Beli Sendiri Ygy🗿👍
 
 ---------
