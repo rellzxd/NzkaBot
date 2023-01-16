@@ -21,6 +21,10 @@
 > ᴀɴᴅ, Sᴜʙꜱᴄʀɪʙᴇ [ here 🔥 ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
 
 ---------  
+
+## Donate
+- [Saweria](https://saweria.co/zeeoneofc)
+---------
 ## Sᴏꜱᴍᴇᴅ Aᴜᴛʜᴏʀ Fᴠɴᴋʏʏ Bᴏᴛ 🤖
 ---------
 ## ```YouTube``` <a href="https://youtube.com/@FvnkyyBotz"><img align="left" alt="SIEGRIN | YouTube" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Youtube.svg">
