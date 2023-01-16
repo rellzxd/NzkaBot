@@ -36,12 +36,12 @@
 #### `𝐅𝐄𝐀𝐓𝐔𝐑𝐄 𝐓𝐇𝐈𝐒 𝐁𝐎𝐓`
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[☑️](https://github.com/rellzxd) |
-| **Simple Menu** |[✔️](https://github.com/rellzxd) |
-| **Multi Device** |[✔️](https://github.com/rellzxd) |
-| **Button Template** |[✔️](https://github.com/rellzxd) |
-| **Multi Device** |[✔️](https://github.com/rellzxd) |
-| **Button Document (Experiment)** |[✔️](https://github.com/rellzxd) |
+| **Fast Respon** |[✅](https://github.com/rellzxd) |
+| **Simple Menu** |[✅](https://github.com/rellzxd) |
+| **Multi Device** |[✅](https://github.com/rellzxd) |
+| **Button Template** |[✅](https://github.com/rellzxd) |
+| **Multi Device** |[✅](https://github.com/rellzxd) |
+| **Button Document (Experiment)** |[✅](https://github.com/rellzxd) |
 ---------
 ---------
 #### 𝐒𝐨𝐦𝐞 𝐎𝐟 𝐓𝐡𝐞 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐈𝐧𝐜𝐥𝐮𝐝𝐞 :
