@@ -36,7 +36,7 @@
 #### `𝐅𝐄𝐀𝐓𝐔𝐑𝐄 𝐓𝐇𝐈𝐒 𝐁𝐎𝐓`
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/rellzxd) |
+| **Fast Respon** |[☑️](https://github.com/rellzxd) |
 | **Simple Menu** |[✔️](https://github.com/rellzxd) |
 | **Multi Device** |[✔️](https://github.com/rellzxd) |
 | **Button Template** |[✔️](https://github.com/rellzxd) |
