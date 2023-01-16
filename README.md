@@ -228,16 +228,16 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 ---------
 
-### ⚠️ N O T E
+### 〽️ N O T E
 * Apikeynya Beli Sendiri Ygy🗿👍
 
 ---------
 
 ## ```BIG THANKS TO✨```
 * [`Allah SWT`](https://github.com/rellzxd)
-* [`My Parents`](https://github.com/WH-MODS-BOT)
-* [`All Friends`](https://github.com/WH-MODS-BOT)
-* [`All Contributors`](https://github.com/WH-MODS-BOT)
+* [`My Parents`](https://github.com/rellzxd)
+* [`All Friends`](https://github.com/rellzxd)
+* [`All Contributors`](https://github.com/rellzxd)
 * [`All Creator Bot`](https://github.com/rellzxd)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
@@ -247,7 +247,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`The.Sad.Boy01`](https://github.com/Kangsad01) 
 * [`Papah-Chan`](https://github.com/FahriAdison) 
 
-## ```⻝Recode By 🐾```
+## ```⻝ Recode By 🐾```
 [![ FVNKYY-BOTZ ](https://github.com/rellzxd.png?size=70)](https://github.com/rellzxd)
 
 # ```Contributor 🔭```
