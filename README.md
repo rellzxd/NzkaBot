@@ -33,8 +33,8 @@
 ---------
 
 ---------
-#### `𝐌𝐄𝐍𝐔 𝐓𝐇𝐈𝐒 𝐁𝐎𝐓`
-| Kelebihan | ᴄʜᴇᴄᴋ |
+#### 𝐌𝐄𝐍𝐔 𝐓𝐇𝐈𝐒 𝐁𝐎𝐓
+| Kᴇʟᴇʙɪʜᴀɴ | Cʜᴇᴄᴋ |
 |--------|--------|
 | **Fast Respon** |[✅](https://github.com/rellzxd) |
 | **Simple Menu** |[✅](https://github.com/rellzxd) |
@@ -42,23 +42,25 @@
 | **Button Template** |[✅](https://github.com/rellzxd) |
 | **Button Document (Experiment)** |[✅](https://github.com/rellzxd) |
 ---------
----------
-#### 𝐒𝐨𝐦𝐞 𝐎𝐟 𝐓𝐡𝐞 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐈𝐧𝐜𝐥𝐮𝐝𝐞 :
-- [x] Downloader 
-- [x] Internet
-- [x] Rpg Game
-- [x] Nsfw 
-- [x] Sticker 
-- [x] Game 
-- [x] Kerang Ajaib 
-- [x] Quotes 
-- [x] Anime 
-- [x] Premium 
-- [x] Tools  
-- [x] React 
+
+#### 𝐅𝐄𝐀𝐓𝐔𝐑𝐄 𝐓𝐇𝐈𝐒 𝐁𝐎𝐓
+| Fɪᴛᴜʀ | Cʜᴇᴄᴋ |
+|--------|--------|
+| **Downloader** |[✅](https://github.com/rellzxd) |
+| **Internet** |[✅](https://github.com/rellzxd) |
+| **Game Rpg** |[✅](https://github.com/rellzxd) |
+| **Nsfw** |[✅](https://github.com/rellzxd) |
+| **Sticker** |[✅](https://github.com/rellzxd) |
+| **Kerang Ajaib** |[✅](https://github.com/rellzxd) |
+| **Quotes** |[✅](https://github.com/rellzxd) |
+| **Anime** |[✅](https://github.com/rellzxd) |
+| **Premium** |[✅](https://github.com/rellzxd) |
+| **Tools** |[✅](https://github.com/rellzxd) |
+| **Exec** |[✅](https://github.com/rellzxd) |
+| **React** |[✅](https://github.com/rellzxd) |
 ---------
 
-## `SETTING`
+## SETTING
 
 - Number Owner [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
 - Name Owner : [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
@@ -68,12 +70,12 @@
 ## ```HEROKU BUILDPACK```
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/)
 
-| BUILDPACK | LINK |
+| BuildPack | Link |
 |--------|--------|
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git) |
 | **IMAGEMAGICK** | [here](https://github.com/mcollina/heroku-buildpack-imagemagick.git) |
 
-## `TERMUX USER`
+## TERMUX USER
 ```bash
 $ pkg upgrade && pkg update
 $ pkg install git -y
@@ -89,14 +91,14 @@ If error try using yarn instead of npm, see [here](https://github.com/BochilGami
 $ node .
 ```
 
-#### For Android 10 and Above Don't Use NPM, Use Yarn Install
+#### For android 10 and above don't use npm, use yarn install
 ```bash
 $ pkg install yarn -y
 $ yarn install
 ```
 ---------
 
-## `TERMUX WITH UBUNTU`
+## TERMUX WITH UBUNTU
 
 ```bash
 apt update && apt full-upgrade
@@ -131,7 +133,7 @@ npm update
 
 ---------
 
-## `💻 FOR USER WINDOWS/VPS/RDP`
+## 💻 USER FOR WINDOWS/VPS/RDP
 
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads)
 * Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
@@ -167,7 +169,7 @@ node .
 ## `SW ONLY`
 * If that chat not from status, bot will ignore
 
-## `PREFIX <prefixes>`
+## `PREFIX`
 * `prefixes` are seperated by each character
 Set prefix
 
