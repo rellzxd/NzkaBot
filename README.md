@@ -226,7 +226,7 @@ Apikeynya Beli Sendiri Ygy🗿👍
 
 ---------
 
-## ```BIG THANKS TO ✨```
+## ```BIG THANKS TO✨```
 * [`Allah SWT`](https://github.com/WH-MODS-BOT)
 * [`My Parents`](https://github.com/WH-MODS-BOT)
 * [`All Friends`](https://github.com/WH-MODS-BOT)
