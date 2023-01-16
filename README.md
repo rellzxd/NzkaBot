@@ -22,7 +22,7 @@
 
 ---------  
 
-## Donate
+## 𝐃𝐨𝐧𝐚𝐭𝐞
 * [Saweria](https://saweria.co/FvnkyyBotz)
 ---------
 
