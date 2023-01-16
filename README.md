@@ -1,4 +1,5 @@
-## ☣️ 𝗕 𝗔 𝗖 𝗔 𝗗 𝗨 𝗟 𝗨 𝗕 𝗥 𝗢 𝗛 🗿👊
+## CATATAN
+☣️ 𝗕 𝗔 𝗖 𝗔 𝗗 𝗨 𝗟 𝗨 𝗕 𝗥 𝗢 𝗛 🗿👊
 𝚂𝚌𝚛𝚒𝚙𝚝 𝚒𝚗𝚒 𝙵𝚛𝚎𝚎 𝚞𝚗𝚝𝚞𝚔 𝚂𝚎𝚖𝚞𝚊 𝙾𝚛𝚊𝚗𝚐, 𝚋𝚞𝚔𝚊𝚗 𝚞𝚗𝚝𝚞𝚔 𝙳𝚒𝚓𝚞𝚊𝚕. 𝙹𝚒𝚔𝚊 𝚍𝚒𝚓𝚞𝚊𝚕 𝚗𝚎𝚛𝚊𝚔𝚊 𝚖𝚎𝚗𝚞𝚗𝚐𝚐𝚞𝚖𝚞 𝙱𝚛𝚘𝚝𝚑𝚎𝚛 !!!
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
@@ -32,6 +33,11 @@
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hu3Mnyh023QGMVhKVOFLmr) 
 
 ---------
+
+## ```For User Panel,Buy Panel In This Number```
+[![WHATSAPP](https://img.shields.io/badge/Seller%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/84352438984)
+---------
+
 #### INFORMATION THIS BOT
 | Kᴇʟᴇʙɪʜᴀɴ | Cʜᴇᴄᴋ |
 |--------|--------|
@@ -59,7 +65,7 @@
 | **React** |[✅](https://github.com/rellzxd) |
 ---------
 
-## SETTING
+## SETTING ⚙️
 
 * Owner Number : [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
 * Name Owner : [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
