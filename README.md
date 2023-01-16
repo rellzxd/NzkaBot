@@ -23,7 +23,7 @@
 
 ---------  
 
-## ⻝DONATE
+## Donate
 * [Saweria](https://saweria.co/FvnkyyBotz)
 ---------
 
@@ -33,7 +33,7 @@
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hu3Mnyh023QGMVhKVOFLmr) 
 
 ---------
-## ```Buy Panel In This Number```
+## ```⻝Buy Panel In This Number```
 [![WHATSAPP](https://img.shields.io/badge/Seller%20Panel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/84352438984)
 ---------
 
