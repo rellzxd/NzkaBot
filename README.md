@@ -150,44 +150,44 @@ node .
 
 ## ```Arguments node . [--options] [<session name>]```
 
-## `--self`
-* Activate self mode (Ignores other)
+## `SELF`
+*: Activate self mode (Ignores other)
 
-## `--pconly`
+## `PC ONLY`
 * If that chat not from private bot, bot will ignore
 
-## `--gconly`
+## `GC ONLY`
 * If that chat not from group, bot will ignore
 
-## `--swonly`
+## `SW ONLY`
 * If that chat not from status, bot will ignore
 
-## `--prefix <prefixes>`
+## `PREFIX <prefixes>`
 * `prefixes` are seperated by each character
 Set prefix
 
-## `--server`
+## `SERVER`
 * Used for [heroku](https://heroku.com/) or scan through website
 
-## `--restrict`
+## `RESTRICT`
 * Enables restricted plugins (which can lead your number to be **banned** if used too often)
 * Group Administration `add, kick`
 
-## `--img`
+## `IMG`
 * Enable image inspector through terminal
 
-## `--autoread`
+## `AUTO READ`
 * If enabled, all incoming messages will be marked as read
 
-## `--nyimak`
+## `NYIMAK`
 * No bot, just print received messages and add users to database
 
-## `--test`
-* **Development** Testing Mode
+## `TEST`
+* **DEVELOPMENT** TESTING MODE
 
 ---------
 
-## ```How To Customise Message Display```
+## ```To Customise Message Display :```
 ```js
 // Syntax
 conn.sendButton(
@@ -212,7 +212,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ```
 ---------
 
-### 🎭 S&K :
+### 📮 S&K :
 1. Don't For Sale
 2. Don't Forget Give Star This Repo
 3. Follow my Github
@@ -221,12 +221,12 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 ---------
 
-### ❗ N O T E :
+### 📍 N O T E :
 Apikeynya Beli Sendiri Ygy🗿👍
 
 ---------
 
-## ```「 BIG THANKS TO 」```
+## ```「BIG THANKS TO🔥」```
 * [`Allah SWT`](https://github.com/WH-MODS-BOT)
 * [`My Parents`](https://github.com/WH-MODS-BOT)
 * [`All Friends`](https://github.com/WH-MODS-BOT)
@@ -239,6 +239,7 @@ Apikeynya Beli Sendiri Ygy🗿👍
 * [`KannaChann`](https://github.com/kannachann) 
 * [`The.Sad.Boy01`](https://github.com/Kangsad01) 
 * [`Papah-Chan`](https://github.com/FahriAdison) 
+* [`DaniMaker`]
 
 ## ```RECODE BY 🔭```
 [![ FVNKYY-BOTZ ](https://github.com/rellzxd.png?size=70)](https://github.com/rellzxd)
