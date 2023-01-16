@@ -232,7 +232,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`My Parents`](https://github.com/WH-MODS-BOT)
 * [`All Friends`](https://github.com/WH-MODS-BOT)
 * [`All Contributors`](https://github.com/WH-MODS-BOT)
-* [`All Creator Bot`](https://github.com/WH-MODS-BOT)
+* [`All Creator Bot`](https://github.com/rellzxd)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
