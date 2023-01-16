@@ -218,13 +218,13 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 ---------
 
-### `📍 N O T E !`
-Apikeynya Beli Sendiri Ygy🗿👍
+### `📍 N O T E`
+* Apikeynya Beli Sendiri Ygy🗿👍
 
 ---------
 
 ## ```【BIG THANKS TO🔥】```
-* [`Allah SWT`](https://github.com/WH-MODS-BOT)
+* [`Allah SWT`](https://github.com/rellzxd)
 * [`My Parents`](https://github.com/WH-MODS-BOT)
 * [`All Friends`](https://github.com/WH-MODS-BOT)
 * [`All Contributors`](https://github.com/WH-MODS-BOT)
