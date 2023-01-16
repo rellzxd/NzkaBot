@@ -69,7 +69,7 @@
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git) |
 | **IMAGEMAGICK** | [here](https://github.com/mcollina/heroku-buildpack-imagemagick.git) |
 
-## `COMMAND USER TERMUX`
+## `TERMUX USER`
 ```bash
 $ pkg upgrade && pkg update
 $ pkg install git -y
@@ -241,5 +241,5 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`The.Sad.Boy01`](https://github.com/Kangsad01) 
 * [`Papah-Chan`](https://github.com/FahriAdison) 
 
-## ```RECODE BY :```
+## ```⻝ RECODE BY 🐾```
 [![ FVNKYY-BOTZ ](https://github.com/rellzxd.png?size=70)](https://github.com/rellzxd)
