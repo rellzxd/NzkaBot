@@ -36,8 +36,8 @@
 - [x] **Button Document (Experiment)** 
 ---------
 #### 𝐒𝐨𝐦𝐞 𝐎𝐟 𝐓𝐡𝐞 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐈𝐧𝐜𝐥𝐮𝐝𝐞 :
-- [x] Internet 
-- [x] Downloader
+- [x] Downloader 
+- [x] Internet
 - [x] Rpg Game
 - [x] Nsfw 
 - [x] Sticker 
@@ -46,8 +46,7 @@
 - [x] Quotes 
 - [x] Anime 
 - [x] Premium 
-- [x] Tools 
-- [x] Exec 
+- [x] Tools  
 - [x] React 
 ---------
 
