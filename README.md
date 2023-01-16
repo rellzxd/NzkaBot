@@ -51,7 +51,7 @@
 - [x] React 
 ---------
 
-## `SETTING :`
+## `SETTING`
 
 - Number Owner [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
 - Name Owner : [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
@@ -66,7 +66,7 @@
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git) |
 | **IMAGEMAGICK** | [here](https://github.com/mcollina/heroku-buildpack-imagemagick.git) |
 
-## CMD USER TERMUX :
+## `COMMAND USER TERMUX :`
 ```bash
 $ pkg upgrade && pkg update
 $ pkg install git -y
