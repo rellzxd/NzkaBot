@@ -32,12 +32,17 @@
 ## ```Instagram``` <a href="https://www.instagram.com/rellz.fvnkyy"><img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg">
 ---------
 
-#### 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐓𝐡𝐢𝐬 𝐁𝐨𝐭 :
-- [x] **Simple Menu** 
-- [x] **Fast Respon** 
-- [x] **Multi Device** 
-- [x] **Button Template** 
-- [x] **Button Document (Experiment)** 
+---------
+#### `𝐅𝐄𝐀𝐓𝐔𝐑𝐄 𝐓𝐇𝐈𝐒 𝐁𝐎𝐓`
+| Kelebihan | Check |
+|--------|--------|
+| **Fast Respon** |[✔️](https://github.com/rellzxd) |
+| **Simple Menu** |[✔️](https://github.com/rellzxd) |
+| **Multi Device** |[✔️](https://github.com/rellzxd) |
+| **Button Template** |[✔️](https://github.com/rellzxd) |
+| **Multi Device** |[✔️](https://github.com/rellzxd) |
+| **Button Document (Experiment)** |[✔️](https://github.com/rellzxd) |
+---------
 ---------
 #### 𝐒𝐨𝐦𝐞 𝐎𝐟 𝐓𝐡𝐞 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐈𝐧𝐜𝐥𝐮𝐝𝐞 :
 - [x] Downloader 
