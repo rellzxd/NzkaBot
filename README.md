@@ -222,7 +222,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 ---------
 
-### `📍N O T E`
+### ⚠️ N O T E
 * Apikeynya Beli Sendiri Ygy🗿👍
 
 ---------
@@ -241,5 +241,5 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`The.Sad.Boy01`](https://github.com/Kangsad01) 
 * [`Papah-Chan`](https://github.com/FahriAdison) 
 
-## ```Ｒᴇᴄᴏᴅᴇ Ｂʏ 🔭```
+## ```RECODE BY :```
 [![ FVNKYY-BOTZ ](https://github.com/rellzxd.png?size=70)](https://github.com/rellzxd)
