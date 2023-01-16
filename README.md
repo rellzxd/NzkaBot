@@ -240,5 +240,5 @@ Apikeynya Beli Sendiri Ygy🗿👍
 * [`The.Sad.Boy01`](https://github.com/Kangsad01) 
 * [`Papah-Chan`](https://github.com/FahriAdison) 
 
-## ```⚠️ RECODE BY :```
+## ```RECODE BY 🔭```
 [![ FVNKYY-BOTZ ](https://github.com/rellzxd.png?size=70)](https://github.com/rellzxd)
