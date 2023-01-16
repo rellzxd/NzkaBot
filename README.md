@@ -22,7 +22,7 @@
 
 ---------  
 
-## DONATE☘️
+## Donate
 * [Saweria](https://saweria.co/FvnkyyBotz)
 ---------
 ## Sᴏꜱᴍᴇᴅ Aᴜᴛʜᴏʀ Fᴠɴᴋʏʏ Bᴏᴛ 🤖
