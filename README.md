@@ -223,7 +223,7 @@ Apikeynya Beli Sendiri Ygy🗿👍
 
 ---------
 
-## ```【 BIG THANKS TO🔥 】```
+## ```【BIG THANKS TO🔥】```
 * [`Allah SWT`](https://github.com/WH-MODS-BOT)
 * [`My Parents`](https://github.com/WH-MODS-BOT)
 * [`All Friends`](https://github.com/WH-MODS-BOT)
@@ -237,5 +237,5 @@ Apikeynya Beli Sendiri Ygy🗿👍
 * [`The.Sad.Boy01`](https://github.com/Kangsad01) 
 * [`Papah-Chan`](https://github.com/FahriAdison) 
 
-## ```【 RECODE BY 🔭 】```
+## ```【RECODE BY 🔭】```
 [![ FVNKYY-BOTZ ](https://github.com/rellzxd.png?size=70)](https://github.com/rellzxd)
