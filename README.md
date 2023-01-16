@@ -24,7 +24,7 @@
 ---------  
 
 ## DONATE🥰
-*[Saweria](https://saweria.co/FvnkyyBotz)
+* [Saweria](https://saweria.co/FvnkyyBotz)
 ---------
 
 ## ```Whatsapp``` <a href="https://wa.me/6285876138954"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
