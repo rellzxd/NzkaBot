@@ -1,5 +1,5 @@
 ## ☣️ 𝗕 𝗔 𝗖 𝗔 𝗗 𝗨 𝗟 𝗨 𝗕 𝗥 𝗢 𝗛 🗿👊
-> **WARNING** :
+> **WARNING :**
 𝚂𝚌𝚛𝚒𝚙𝚝 𝚒𝚗𝚒 𝙵𝚛𝚎𝚎 𝚞𝚗𝚝𝚞𝚔 𝚂𝚎𝚖𝚞𝚊 𝙾𝚛𝚊𝚗𝚐, 𝚋𝚞𝚔𝚊𝚗 𝚞𝚗𝚝𝚞𝚔 𝙳𝚒𝚓𝚞𝚊𝚕. 𝙹𝚒𝚔𝚊 𝚍𝚒𝚓𝚞𝚊𝚕 𝚗𝚎𝚛𝚊𝚔𝚊 𝚖𝚎𝚗𝚞𝚗𝚐𝚐𝚞𝚖𝚞 𝙱𝚛𝚘𝚝𝚑𝚎𝚛 !!!
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
@@ -19,7 +19,7 @@
 # 𝐒𝐄𝐒𝐒𝐈𝐎𝐍𝐒? 𝐒𝐂𝐀𝐍 𝐃𝐈𝐒𝐈𝐍𝐈☕
 
 > Cʟɪᴄᴋ [ session disini ](https://replit.com/@zeeoneofc/Session-Md?lite=1&outputonly=1#.replit) 
-> ᴀɴᴅ, Sᴜʙꜱᴄʀɪʙᴇ [ here 🔥 ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
+> ᴀɴᴅ, Sᴜʙꜱᴄʀɪʙᴇ [ here ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
 
 ---------  
 
