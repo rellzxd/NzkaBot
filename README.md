@@ -218,7 +218,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ```
 ---------
 
-### `📮 S&K`
+### `📮 S&K :`
 1. Don't For Sale
 2. Don't Forget Give Star This Repo
 3. Follow my Github
@@ -227,8 +227,8 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 ---------
 
-### 〽️ N O T E
-* Apikeynya Beli Sendiri Ygy🗿👍
+### `〽️ NOTE :`
+* Apikeynya Beli Sendiri Cuy🗿👍
 
 ---------
 
