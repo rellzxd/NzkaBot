@@ -30,7 +30,7 @@
 
 #### 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐓𝐡𝐢𝐬 𝐁𝐨𝐭 :
 - [x] **Fast Respon** 
-- [x] **Simple** 
+- [x] **Simple Menu** 
 - [x] **Button Template** 
 - [x] **Multi Device** 
 - [x] **Button Document (Experiment)** 
@@ -226,7 +226,7 @@ Apikeynya Beli Sendiri Ygy🗿👍
 
 ---------
 
-## ```BIG THANKS TO✨```
+## ```「 BIG THANKS TO 」```
 * [`Allah SWT`](https://github.com/WH-MODS-BOT)
 * [`My Parents`](https://github.com/WH-MODS-BOT)
 * [`All Friends`](https://github.com/WH-MODS-BOT)
