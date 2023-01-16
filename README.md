@@ -29,15 +29,15 @@
 ---------
 
 #### 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐓𝐡𝐢𝐬 𝐁𝐨𝐭 :
-- [x] **Fast Respon** 
 - [x] **Simple Menu** 
-- [x] **Button Template** 
+- [x] **Fast Respon** 
 - [x] **Multi Device** 
+- [x] **Button Template** 
 - [x] **Button Document (Experiment)** 
 ---------
 #### 𝐒𝐨𝐦𝐞 𝐎𝐟 𝐓𝐡𝐞 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐈𝐧𝐜𝐥𝐮𝐝𝐞 :
-- [x] Downloader 
 - [x] Internet 
+- [x] Downloader
 - [x] Rpg Game
 - [x] Nsfw 
 - [x] Sticker 
@@ -140,7 +140,7 @@ npm update
 
 ---------
 
-## `RUN 🏃`
+## RUN 🏃
 
 ```bash
 node .
@@ -210,7 +210,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ```
 ---------
 
-### `📮 S&K :`
+### `📮 S&K`
 1. Don't For Sale
 2. Don't Forget Give Star This Repo
 3. Follow my Github
@@ -219,7 +219,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 ---------
 
-### `📍 N O T E :`
+### `📍 N O T E !`
 Apikeynya Beli Sendiri Ygy🗿👍
 
 ---------
@@ -237,7 +237,6 @@ Apikeynya Beli Sendiri Ygy🗿👍
 * [`KannaChann`](https://github.com/kannachann) 
 * [`The.Sad.Boy01`](https://github.com/Kangsad01) 
 * [`Papah-Chan`](https://github.com/FahriAdison) 
-* [`DaniMaker`]
 
-## ```RECODE BY 🔭```
+## ```【 RECODE BY 🔭 】```
 [![ FVNKYY-BOTZ ](https://github.com/rellzxd.png?size=70)](https://github.com/rellzxd)
