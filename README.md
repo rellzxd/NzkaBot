@@ -133,7 +133,7 @@ npm update
 
 ---------
 
-## 💻 USER FOR WINDOWS/VPS/RDP
+## FOR WINDOWS/VPS/RDP USER 💻
 
 * Download And Install Git [`Click Here`](https://git-scm.com/downloads)
 * Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
@@ -247,5 +247,12 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`The.Sad.Boy01`](https://github.com/Kangsad01) 
 * [`Papah-Chan`](https://github.com/FahriAdison) 
 
-## ```⻝ RECODE BY 🐾```
+## ```⻝Recode By 🐾```
 [![ FVNKYY-BOTZ ](https://github.com/rellzxd.png?size=70)](https://github.com/rellzxd)
+
+# ```Contributor 🔭```
+* [`Fokusdotid`](https://github.com/Fokusdotid)
+* [`The.Sad.Boy01`](https://github.com/Kangsad01)
+* [`AmirulDev20`](https://github.com/amiruldev20)
+* [`Rasel Comel`](https://github.com/raselcomel)
+* [`Rominaru`](https://github.com/rominaru)
